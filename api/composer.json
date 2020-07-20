@@ -1,0 +1,12 @@
+{
+    "name": "mmarques1997/api",
+    "type": "project",
+    "require": {
+        "cboden/ratchet": "^0.4.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
